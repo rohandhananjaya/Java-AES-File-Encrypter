@@ -16,6 +16,8 @@ import javax.swing.JFileChooser;
 /**
  *
  * @author Rohan Dhananjaya
+ * @blog https://techsayura.com
+ * @github https://github.com/rohandhananjaya
  */
 public class EnCryper extends javax.swing.JFrame {
 
